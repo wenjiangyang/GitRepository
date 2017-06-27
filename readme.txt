@@ -7,3 +7,5 @@ Creating a new branch is quick & simple.
 yangwenjian
 dev plan
 new feature wenjiangyang
+gittest feature
+gittest reature 2
